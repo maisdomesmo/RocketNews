@@ -6,6 +6,7 @@ body{
     grid-template-columns: 720px 55vw;
     margin-block: 0;
     font-family: 'League Spartan', sans-serif;
+    width: 100vw;
 }
 img {
     width: 55.72611vw;
