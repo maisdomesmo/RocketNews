@@ -6,7 +6,11 @@ body{
     grid-template-columns: 720px 40vw;
     margin-block: 0;
     font-family: 'League Spartan', sans-serif;
+<<<<<<< HEAD
     
+=======
+    width: 100vw;
+>>>>>>> bf016185508f3e048499d191511c754ed5b357c1
 }
 img {
     width: 44.58vw;
