@@ -3,13 +3,14 @@ body{
     margin-left: 36px;
     display: grid;
     grid-template-areas: "A B";
-    grid-template-columns: 720px 55vw;
+    grid-template-columns: 720px 40vw;
     margin-block: 0;
     font-family: 'League Spartan', sans-serif;
+    
 }
 img {
-    width: 55.72611vw;
-    height: 99vh;
+    width: 44.58vw;
+    height: 99.355vh;
     
 }
 .col-a{
